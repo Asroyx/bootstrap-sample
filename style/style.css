@@ -1,0 +1,14 @@
+body {
+  background: #e9ecef;
+}
+.img-bg {
+  background-position: center center;
+  background-image: url("../assets/banner.jpg");
+}
+.h-80 {
+  height: 50vh;
+}
+.full-height {
+  background-size: cover;
+  background-repeat: no-repeat;
+}
