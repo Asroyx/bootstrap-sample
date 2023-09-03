@@ -9,6 +9,3 @@ body {
 .card:hover {
   border: #648dca 1px solid;
 }
-.navbar {
-  padding-left: 12em;
-}
