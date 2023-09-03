@@ -8,7 +8,14 @@ body {
 .h-80 {
   height: 50vh;
 }
-.full-height {
-  background-size: cover;
-  background-repeat: no-repeat;
+.card {
+  transition: 0.5s all ease;
+  cursor: pointer;
+  margin: 5px 0;
+}
+.card:hover {
+  border: #648dca 1px solid;
+}
+.navbar {
+  padding-left: 12em;
 }
