@@ -7,7 +7,7 @@
 Bu proje, Bootstrap özelliklerini kullanarak bir müzik aleti satış sitesini tasarlamayı amaçlar. Aşağıda yer alan özellikler ve sayfalar bu projenin bir parçasıdır:
 
 - Menü: Koyu renkli bir menü tasarımı.
-- Ana Sayfa: Bir jumbotron ile başlayan ana sayfa, içeriğin açıklaması ve #E9ECEF arka plan rengi.
+- Ana Sayfa: Bir jumbotron ile başlayan ana sayfa, içeriğin açıklaması
 - Ürünlerimiz Sayfası: Bootstrap card yapısı kullanılarak oluşturulan ürün kartları.
 - Hakkımızda Sayfası: Bootstrap card yapısı içinde yer alan hakkımızda bilgileri.
 
